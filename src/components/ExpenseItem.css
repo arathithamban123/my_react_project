@@ -4,7 +4,7 @@
   width: 90%;
   height: 80px;
   margin: auto;
-  background-color: #607d8b;
+  background-color: #004381;
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
 }
